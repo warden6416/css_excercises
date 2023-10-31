@@ -1,0 +1,21 @@
+.red_bg{
+    background-color: rgb(238, 136, 192);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.red_bg#num3{
+    background-color: rgb(238, 136, 192);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#blue_text{
+    color: #3700ff;
+    font-size: 36px;
+}
+
+#green_bg{
+background-color: hsl(120, 73%, 75%);
+font-size: 24px;
+font-weight: bold;
+}
